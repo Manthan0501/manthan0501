@@ -11,7 +11,7 @@
   
 # 👋 Hello, I’m Manthan Tiwari  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+%26+Automation+Enthusiast;Building+Scalable+Infrastructure;Continuous+Integration+%26+Delivery)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+%26+Automation+Enthusiast;Building+Scalable+Infrastructure;Continuous+Integration+%26+Delivery)](https://git.io/typing-svg)
 
 </div>
 
